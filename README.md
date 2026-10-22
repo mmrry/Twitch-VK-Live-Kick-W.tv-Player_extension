@@ -200,6 +200,6 @@ fasoollka=vk:fasolka,wtv:fasolka,kick:fasollka; другой_канал=kick:и�
 - У расширения нет своего сервера, аналитики и рекламы.
 - Оно обращается только к VK Video Live, W.tv и Kick, чтобы узнать, идёт ли эфир, и показать его.
 
-Подробно — в файле [PRIVACY.md](../PRIVACY.md).
+Подробно — в файле [PRIVACY.md](PRIVACY.md), он лежит рядом с этим README.
 
-Расширение не связано с Twitch, VK, W.tv или Kick.
+Расширение не связано с Twitch, VK, W.tv или Kick и не одобрено ими.

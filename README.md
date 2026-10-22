@@ -202,4 +202,4 @@ fasoollka=vk:fasolka,wtv:fasolka,kick:fasollka; другой_канал=kick:и�
 
 Подробно — в файле [PRIVACY.md](../PRIVACY.md).
 
-Расширение не связано с Twitch, VK, W.tv или Kick и не одобрено ими.
+Расширение не связано с Twitch, VK, W.tv или Kick.
